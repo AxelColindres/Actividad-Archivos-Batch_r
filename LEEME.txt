@@ -1,0 +1,21 @@
+ACTIVIDAD ARCHIVOS BATCH - SISTEMAS OPERATIVOS
+
+Este paquete contiene los 7 problemas de la actividad.
+
+1. Problema1_Menu_Temas.bat
+2. Problema2_Menu_Aplicaciones.bat
+3. Problema3_Arbol_Directorios.bat
+4. Problema4_Ocultar_Mostrar.bat
+5. Problema5_Nombre_Edad.bat
+6. Problema6_Ciclos.bat
+7. Problema7_Crear_Desde_Texto.bat
+   - nombres.txt es el archivo de texto utilizado por el problema 7.
+
+NOTAS:
+- Los archivos fueron diseñados para Windows.
+- Los ejercicios crean sus resultados principalmente dentro de:
+  Escritorio\SOActBatch
+- El Problema 4 solicita al usuario una ruta para trabajar.
+- En el Problema 2, Word, Excel y PowerPoint deben estar instalados y
+  disponibles en Windows para que sus ejecutables se abran directamente.
+- Si el enlace de EFPEM cambia, puede editarse la URL en el Problema 2.
